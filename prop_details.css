@@ -1,0 +1,185 @@
+body{
+background-image:url("host.jpg");
+background-repeat:no-repeat;
+background-size:100% 100%;
+background-position:fixed;
+}
+#head1{
+text-align:center;
+font-family:"Cambria Math";
+font-size:80px;
+}
+#div1{
+background-color:#AA644A;
+}
+a:hover{
+background-color:#B7978B;
+}
+
+a{
+text-decoration:none;
+color:#9AC5E3;
+}
+
+h1{
+font-family:"Segoe UI Black";
+color:#362323;
+margin:0 35%;	
+}
+h2{
+font-family:"verdana";
+color:white;	
+margin-left:10%;
+
+}
+.header_home{
+width:100%;
+height:10%;
+background-color:transparent;
+border:1;
+}
+
+.right_of_header{
+float:right;
+font-size:40px;
+border:2;
+border-color:red;
+}
+
+#logo{
+width:10%;
+height:90%;
+}
+
+.tell_us{
+margin-top:10%;	
+
+}
+.signup_form_external{
+
+border-radius:20px 20px 20px 20px;
+border-color:black;
+margin-right:auto;
+margin-left:40%;
+border-style:solid;
+margin-left:10%;
+height:auto;position:relative;
+clear:both;
+}
+.signup_form_internal{
+float:left;	
+background-color:lightblue;
+margin-left:7%;
+margin-right:40%;
+border-radius:20px 20px 20px 20px;
+border-color:white;
+border-style:solid;
+width:35%;
+border-width:6px;
+}
+.details
+{
+font-family:"Helvetica";
+font-size:120%;
+color:white;
+margin-left:10%;
+
+}
+.detailss
+{
+display:inline;
+font-family:"Segoe UI Black";
+color:white;
+margin-left:10%;
+
+}
+.from{
+border:1;
+
+background-color:transparent;
+
+font-size:21px;
+}
+.fromdate{
+background-color:lightgrey;
+font-size:20px;
+border-radius:30px;
+border:1;
+border-color:black;
+color:white;
+border-color:white;
+}
+.todate{
+background-color:lightgrey;
+font-size:20px;
+border-radius:30px;
+border:1;
+border-color:black;
+border-color:white;
+color:white;
+}
+
+
+.submit_btn{
+	
+	font-size:25px;
+	color:white;
+	border: none;	
+	background-color: pink;
+	border-radius:35px;
+	font-family:"Ariel";
+	margin-left:15%;
+	font-size: 24px;
+	cursor: pointer;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+.submit_btn:hover, .submit_btn:focus, .submit_btn:active {
+  color: white;
+  background-color:skyblue;
+}
+
+
+
+
+.upload_btn{
+background-color:transparent;
+border-radius:30px;	
+}
+
+
+.how_many_rooms{
+	font-size:20px;
+	background-color:LIGHTGREY;
+	color:white;
+	border-radius:30px;
+	}
+
+.where{
+	font-size:20px;
+	width:245px;
+	color:white;
+	background-color:lightgrey;
+	border-radius:30px;
+}
+.select_city{
+	font-size:20px;
+	width:245px;
+	background-color:lightgrey;
+	color:white;
+	border-radius:30px;
+}
+
+.select_area{
+	font-size:20px;
+	width:245px;
+	color:white;
+	background-color:lightgrey;
+	border-radius:30px;
+	
+}
+

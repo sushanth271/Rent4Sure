@@ -1,0 +1,194 @@
+body{
+background-image:url("homebcg3.jpg");
+background-repeat:no-repeat;
+background-size:100% 100%;
+background-position:fixed;
+}
+#head1{
+text-align:center;
+font-family:"Cambria Math";
+font-size:80px;
+}
+#div1{
+background-color:#AA644A;
+}
+a:hover{
+background-color:#B7978B;
+}
+
+a{
+text-decoration:none;
+color:#9AC5E3;
+}
+
+h1{
+font-family:"Segoe UI Black";
+color:#362323;
+margin:0 35%;	
+}
+h2{
+font-family:"Verdana";
+color:#362323;	
+}
+.header_home{
+width:100%;
+height:10%;
+background-color:transparent;
+border:1;
+}
+
+
+
+.upload_ad_btn{
+	
+	font-size:25px;
+	color:white;
+	border: none;	
+	background-color: darkblue;
+	border-radius:35px;
+	font-family:"Ariel";
+	margin-left:5%;
+	font-size: 24px;
+	cursor: pointer;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+	width:100%;
+}
+
+
+.upload_ad_btn:hover, .upload_ad_btn:focus, .upload_ad_btn:active {
+  color: white;
+  background-color:lightblue;
+}
+
+.upload_ad_btn_edit{
+	
+	font-size:25px;
+	color:white;
+	border: none;	
+	background-color: darkblue;
+	border-radius:35px;
+	font-family:"Ariel";
+	margin-left:5%;
+	font-size: 24px;
+	cursor: pointer;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+	width:80%;
+}
+
+
+.upload_ad_btn_edit:hover, .upload_ad_btn_edit:focus, .upload_ad_btn_edit:active {
+  color: white;
+  background-color:lightblue;
+}
+
+
+
+.upload_ad_btn_intrested{
+	
+	font-size:25px;
+	color:white;
+	border: none;	
+	background-color: darkblue;
+	border-radius:35px;
+	font-family:"Ariel";
+	margin-left:5%;
+	font-size: 24px;
+	cursor: pointer;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+	width:100%;
+}
+
+
+.upload_ad_btn_intrested:hover, .upload_ad_btn_intrested:focus, .upload_ad_btn_intrested:active {
+  color: white;
+  background-color:lightblue;
+}
+
+.right_of_header{
+float:right;
+font-size:40px;
+border:2;
+border-color:red;
+}
+
+#logo{
+width:10%;
+height:90%;
+}
+
+
+
+
+
+.details
+{
+display:block;
+font-family:"arial";
+color:color;
+font-size:120%;
+}
+.display_ad{
+float:left;
+border-radius:3% 5% 3% 5%;
+border-color:black;
+border-style:solid;
+margin-left:10%;
+width:50%;
+height:100%;
+background-color:transparent;
+}
+#img1{
+display:inline;
+height:100%;
+width:90%;
+}
+
+#no_of_rooms,#address,#rooms,#city,#pincode,#available_from,#available_till,#area
+{
+display:inline;
+margin:0 30%;
+background-color:lightgrey;
+width:100%;
+height:30px;
+font-size:20px;
+margin-left:1%;
+}
+
+.detailss{
+display:block;
+float:left;
+position:relative;
+}	
+.img123{
+display:block;
+float:left;
+height:40%;
+width:50%;
+margin-left:5%;
+}
+
+
+.details_of{
+margin-left:5%;
+color:white;
+}
+
+.comments{
+	font-size:20px;
+	width:245px;
+	color:white;
+	background-color:lightgrey;
+	border-radius:30px;
+}
